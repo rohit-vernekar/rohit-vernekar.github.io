@@ -2,37 +2,71 @@
   value: Rohit Vernekar
 - key: Description
   value:
-    - Hello!
-    - This tiny website
-    - Looks like JSON
+    - Machine Learning Engineer | Building Scalable Solutions
+    - Data Scientist | Expertise in Statistics
+    - Data Engineer | Cloud Infrastructure & Automation
+    - Computer Science | Mastery in Algorithms & Data Structures
   typed: true
-- key: CV
-  value: cv.pdf
-  url: /cv.pdf
-- key: Address
+- key: Location
+  value: Piscataway, New Jersey
+  url: https://maps.app.goo.gl/ccyXqYrF1BDmeQ5f7
+- key: Education
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - key: Masters
+      value:
+        college: Rutgers University
+        program: Master of Science in Data Science
+        gpa: 4.0
+      # url: https://msds-stat.rutgers.edu/
+    - key: Bachelors
+      value:
+        college: Visvesvaraya Technological University
+        program: Bachelor of Engineering in Computer Science
+        gpa: 8.55
+      # url: https://vtu.ac.in/computer-science-engineering/
+- key: Experience
+  value:
+    - key: Jun-2024 to Aug-2024
+      value:
+        company: Lutron Electronics
+        position: Data Engineering Intern 
+    - key: Jan-2021 to Aug-2023
+      value:
+        company: Aera Technology
+        position: Machine Learning Engineer 
+    - key: Jul-2019 to Jan-2021
+      value:
+        company: Tata Consultancy Services
+        position: Systems Engineer 
+    - key: Jan-2019 to Mar-2019
+      value:
+        company: Tata Consultancy Services
+        position: Intern 
+- key: Projects
+  value:
+    - value: Time Series Analysis with Conformal Prediction
+      url: https://github.com/rohit-vernekar/Conformal-Prediction-on-Time-Series
+    - value: Twitter Data Processor
+      url: https://github.com/rohit-vernekar/Twitter-Data-Processing
+    - value: Autonomous Traffic System
+      url: https://github.com/rohit-vernekar/Twitter-Data-Processing
+    - value: Enigma Accounting Software
+      url: https://github.com/rohit-vernekar/Enigma_Accounting_Software
+    - value: Freefood.com
+      url: https://github.com/rohit-vernekar/Freefood.com
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
     - key: Phone
-      value: +1 234 567 890
+      value: +1 774 777 1969
     - key: Email
-      value: username@domain.com
-      url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
+      value: rohitvernekar76@gmail.com
+      url: "rohitvernekar76@gmail.com"
 - key: Profiles
   value:
-    - value: Instagram
-      url: https://www.instagram.com
     - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
+      url: https://www.linkedin.com/in/rohit-vernekar
     - value: GitHub
-      url: https://github.com
+      url: https://github.com/rohit-vernekar
+- key: Resume
+  value: resume.pdf
+  url: assets/resume.pdf
