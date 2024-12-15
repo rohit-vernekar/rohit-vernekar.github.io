@@ -44,6 +44,10 @@
         position: Intern 
 - key: Projects
   value:
+    - value: RAG Retrieval Evaluation
+      url: https://github.com/rohit-vernekar/RAG-Retrieval-Comparision
+    - value: RAG-BookInsight
+      url: https://github.com/rohit-vernekar/RAG-BookInsight
     - value: Time Series Analysis with Conformal Prediction
       url: https://github.com/rohit-vernekar/Conformal-Prediction-on-Time-Series
     - value: Twitter Data Processor
