@@ -44,9 +44,11 @@
         position: Intern 
 - key: Projects
   value:
+    - value: Diffusion Model for Time Series Forecasting
+      url: https://github.com/rohit-vernekar/Diffusion-Models-Time-Series-Forecasting/tree/main
     - value: RAG Retrieval Evaluation
       url: https://github.com/rohit-vernekar/RAG-Retrieval-Comparision
-    - value: RAG-BookInsight
+    - value: RAG BookInsight
       url: https://github.com/rohit-vernekar/RAG-BookInsight
     - value: Time Series Analysis with Conformal Prediction
       url: https://github.com/rohit-vernekar/Conformal-Prediction-on-Time-Series
